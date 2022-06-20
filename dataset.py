@@ -1,10 +1,3 @@
-# Install GitLFS
-# !curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.rpm.sh | sudo bash
-# !sudo yum install git-lfs -y
-# !git lfs install
-
-# !pip install nltk bs4 datasets tabulate tqdm ratelimit datasets pandas numpy tqdm ratelimit huggingface_hub
-
 # Import all the required packages
 import json, pandas as pd, requests, re, nltk, numpy as np
 import os
